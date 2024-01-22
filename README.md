@@ -1,1 +1,2 @@
-# pac-movies-store
+# movies-store
+Movies Store
